@@ -1,0 +1,61 @@
+Name,Role,Department
+John Smith,CEO,Executive
+Susan Lee,Chief Research Officer,Research and Development
+Michael Johnson,Chief Financial Officer,Finance
+Patricia Williams,Chief Legal Officer,Legal
+Robert Brown,Chief Science Officer,Research and Development
+Jennifer Davis,Vice President,Executive
+Maria Garcia,Research Scientist,Research and Development
+James Wilson,Clinical Research Coordinator,Research and Development
+Linda Martinez,Formulation Scientist,Research and Development
+Elizabeth Anderson,Production Manager,Manufacturing
+David Thomas,Quality Control Analyst,Quality Assurance
+Jessica Moore,Quality Assurance Manager,Quality Assurance
+Sarah Taylor,Regulatory Affairs Specialist,Regulatory Affairs
+Charles Miller,Compliance Officer,Regulatory Affairs
+Lisa White,Pharmaceutical Sales Representative,Sales and Marketing
+Daniel Harris,Market Research Analyst,Sales and Marketing
+Matthew Clark,Product Manager,Sales and Marketing
+Nancy Rodriguez,Medical Science Liaison,Medical Affairs
+Mark Lewis,Medical Advisor,Medical Affairs
+Sandra Lee,Financial Analyst,Finance
+Paul Walker,Business Development Manager,Business Development
+Emily Hall,HR Manager,Human Resources
+Kevin Allen,Talent Acquisition Specialist,Human Resources
+Laura Young,Patent Attorney,Legal
+Joshua Hernandez,Corporate Lawyer,Legal
+Rachel Rodriguez,Regulatory Affairs Specialist,Human Resources
+Tina Martin,Talent Acquisition Specialist,Sales and Marketing
+Ivan Thompson,Medical Science Liaison,Quality Assurance
+Quinn Hernandez,Medical Advisor,Business Development
+Xenia Williams,Patent Attorney,Regulatory Affairs
+Grace Anderson,Market Research Analyst,Legal
+Quinn Jones,Research Scientist,Legal
+Yasmin Lewis,Business Development Manager,Finance
+Eve Taylor,Formulation Scientist,Quality Assurance
+Kyle Martinez,HR Manager,Business Development
+Paula Martin,Regulatory Affairs Specialist,Manufacturing
+Mason Wilson,Financial Analyst,Medical Affairs
+Steve Hernandez,Compliance Officer,Legal
+Umar Brown,Business Development Manager,Legal
+Violet Martinez,Talent Acquisition Specialist,Business Development
+Walter Martinez,Research Scientist,Manufacturing
+Rachel Martin,Quality Control Analyst,Legal
+Paula Taylor,Quality Control Analyst,Finance
+Bob Rodriguez,Corporate Lawyer,Quality Assurance
+Kyle Ramirez,Production Manager,Medical Affairs
+Yasmin White,Production Manager,Quality Assurance
+Julia Smith,Research Scientist,Research and Development
+David Lewis,Medical Science Liaison,Quality Assurance
+Xenia Martin,Medical Science Liaison,Human Resources
+Zack Hernandez,Patent Attorney,Medical Affairs
+Alice Garcia,Talent Acquisition Specialist,Research and Development
+Violet Harris,Research Scientist,Manufacturing
+Bob Davis,Patent Attorney,Human Resources
+Bob White,Talent Acquisition Specialist,Quality Assurance
+Xenia Anderson,Quality Control Analyst,Quality Assurance
+Xenia Hernandez,Clinical Research Coordinator,Sales and Marketing
+Julia Sanchez,Formulation Scientist,Manufacturing
+Violet Wilson,Medical Advisor,Sales and Marketing
+Violet Anderson,Corporate Lawyer,Finance
+Paula Johnson,Business Development Manager,Quality Assurance
