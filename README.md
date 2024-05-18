@@ -21,6 +21,7 @@ The access control system includes three main classes: `User`, `GUI`, and `Emplo
 3. **Employee Class**
    - The `Employee` class manages basic employee data and provides methods to retrieve details such as the number of foreign-born employees.
    - It supports the `User` class in verifying user credentials and determining access levels.
+  
 
 ## Data Access
 
