@@ -13,10 +13,10 @@ The access control system includes three main classes: `User`, `GUI`, and `Emplo
    - It checks the user's details against a list of current employees to ensure that the user is a legitimate member of the company.
    - The class ensures that all entered details (name, department, role, security questions) match the records.
 
-2. **GUI Class**
-   - The `GUI` class is the graphical user interface that users interact with.
+2. **Login Class**
+   - The `Login` class is the login page that users interact with.
    - Users enter their name, role, department, and answer security questions related to their salary, birth city, and country.
-   - The GUI facilitates the authentication process and displays the appropriate datasets based on the user's access level.
+   - The page facilitates the authentication process and displays the appropriate datasets based on the user's access level.
 
 3. **Employee Class**
    - The `Employee` class manages basic employee data and provides methods to retrieve details such as the number of foreign-born employees.
