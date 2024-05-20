@@ -50,9 +50,9 @@ Here's an example of how the `User` class might be used:
 ```java
 public class Main {
     public static void main(String[] args) {
-        // Initialize GUI
-        GUI gui = new GUI();
-        gui.display();
+        // Initialize Page
+        Login page = new Login();
+        gui.displayLoginPage();
         
         // Sample user authentication
         User user = new User("John Doe", "Medical", "Researcher", "100000", "New York", "USA");
