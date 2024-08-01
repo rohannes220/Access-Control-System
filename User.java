@@ -183,12 +183,7 @@ public class User {
 
     }
 
-    public static void main(String[] args) {
-        String fileName = "/Users/god/Desktop/Access Control System/Pharmaceutical_Company_Employees.csv";
-        ArrayList<User> answer = loadUserData(fileName);
-        boolean employeeVerify = employeeVerify("Susan Lee", "Chief Research Officer", "Research and Development",
-                answer);
-        System.out.println(employeeVerify);
+
 
     }
 
