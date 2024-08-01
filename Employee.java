@@ -204,15 +204,6 @@ public class Employee {
 
     }
 
-    public static void main(String[] args) {
-        String fileName = "/Users/god/Desktop/Access Control System/Confidential /Employee_Data.csv";
-        ArrayList<Employee> answer = loadEmployeeData(fileName);
-        String name = "Susan Lee";
-        String birthCountry = "USA";
-        String birthCity = "Los Angeles";
-        int salary = 151265;
-        boolean penis = areSecurityQuestionsCorrect(name, birthCity, birthCountry, salary, answer);
-        System.out.println(penis);
-    }
+
 
 }
